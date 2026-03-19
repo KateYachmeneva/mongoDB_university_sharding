@@ -232,15 +232,15 @@ docker exec -it python-app python tests/plot_results.py
 
  *График времени выполнения:*
 
-```
-![img_6.png](img_6.png)
-```
+
+![img_6.png](img_6.png)```
+
 
  *График производительности:*
 
-```
+
 ![img_7.png](img_7.png)
-```
+
 
 ---
 
