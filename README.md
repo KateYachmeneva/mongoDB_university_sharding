@@ -203,7 +203,7 @@ docker exec -it python-app python app/main.py
 
 ---
 
-# 🚀 Нагрузочное тестирование
+# Нагрузочное тестирование
 
 Запуск:
 
@@ -233,13 +233,13 @@ docker exec -it python-app python tests/plot_results.py
  *График времени выполнения:*
 
 ```
-![Benchmark Time](results/benchmark_time.png)
+![img_6.png](img_6.png)
 ```
 
-📸 *График производительности:*
+ *График производительности:*
 
 ```
-![Benchmark Ops](results/benchmark_ops.png)
+![img_7.png](img_7.png)
 ```
 
 ---
