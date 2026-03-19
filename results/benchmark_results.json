@@ -1,0 +1,26 @@
+[
+  {
+    "operation": "insert",
+    "count": 10000,
+    "total_seconds": 3.875334417999966,
+    "ops_per_sec": 2580.4224671688935
+  },
+  {
+    "operation": "read",
+    "count": 10000,
+    "total_seconds": 4.022211294000044,
+    "ops_per_sec": 2486.1946001984174
+  },
+  {
+    "operation": "update",
+    "count": 5000,
+    "total_seconds": 6.033627086000251,
+    "ops_per_sec": 828.6889343230106
+  },
+  {
+    "operation": "delete",
+    "count": 5000,
+    "total_seconds": 6.0144036279998545,
+    "ops_per_sec": 831.3376203623361
+  }
+]
